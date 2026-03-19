@@ -3,8 +3,8 @@ clc
 close all
 rng (42)
 %% PARAMETERS
-N_INJURED = 20;
-N_HEALTHY = 20;
+N_INJURED = 10;
+N_HEALTHY = 10;
 N_TRIALS = 3;
 
 regions = {'Hallux','Toes','1st Metatarsal','2nd Metatarsal'...
